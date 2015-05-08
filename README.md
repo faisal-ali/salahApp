@@ -1,2 +1,2 @@
 # salahApp
-App for Salah timing across different mosques
+App for Salah timing across different mosques....
